@@ -28,6 +28,31 @@
 
 <div align="center">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="34px"/> Sound Visualizer
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/gifs/sound_wave.gif" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=500&color=00C2FF&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%B5+Now+Playing%3A+Code+%26+Chill;%F0%9F%8E%B6+Current+Track%3A+Midnight+Hacking;%F0%9F%94%8A+Volume%3A+Maximum+Productivity" alt="Music Typing"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="50px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" width="50px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" width="50px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speaker%20High%20Volume.png" width="50px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Level%20Slider.png" width="50px"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px"/> About Me
 
 </div>
@@ -49,7 +74,7 @@
 </td>
 <td width="40%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="100%"/>
 
 </td>
 </tr>
@@ -59,8 +84,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22px"/> **Currently working on** — Modern Web Applications  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="22px"/> **Currently learning** — Node.js, MongoDB & AI Integration  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="22px"/> **Ask me about** — HTML, CSS, JavaScript, Python, PHP  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="22px"/> **Goal** — Full-Stack Developer & AI Engineer  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22px"/> **Ask me about** — HTML, CSS, JavaScript, Python, PHP  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="22px"/> **Goal** — Full-Stack Developer & AI Engineer  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22px"/> **Fun fact** — Code is my second language  
 
 </div>
@@ -112,48 +137,37 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34px"/> GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34px"/> Tech Vibes
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhesaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8A2BE2&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15&cache_seconds=86400"/>
-<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhesaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8&border_radius=15&cache_seconds=86400"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="60px"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="60px"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mhesaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00C2FF&fire=FF00E5&currStreakLabel=00C2FF&sideLabels=ffffff&dates=ffffff&border_radius=15"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%A1+Powered+by+Curiosity;%F0%9F%8E%AF+Driven+by+Passion;%F0%9F%9A%80+Built+for+the+Future" alt="Tech Vibes Typing"/>
 
-<br/><br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34px"/> Contribution Activity
+
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhesaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=8A2BE2&point=FF00E5&area=true&area_color=8A2BE2"/>
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34px"/> GitHub Trophies
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=mhesaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="34px"/> Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhesaa/mhesaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhesaa/mhesaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhesaa/mhesaa/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhesaa&theme=tokyonight"/>
 
 </div>
 
@@ -208,11 +222,7 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="34px"/> Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/gifs/sound_wave.gif" width="100%"/>
 
 <br/><br/>
 
