@@ -34,7 +34,7 @@
 
 <div align="center">
 
-**Mahesa Dika Pamungkas** — seorang **Beginner** yang sedang menekuni dunia **Web Development** dan **AI Engineering**. Berbasis di **Indonesia** 🇮🇩, fokus membangun aplikasi web modern dan mengeksplorasi kecerdasan buatan.
+**Mahesa Dika Pamungkas** — a **Beginner** who is deeply exploring the world of **Web Development** and **AI Engineering**. Based in **Indonesia** 🇮🇩, focused on building modern web applications and exploring artificial intelligence.
 
 </div>
 
