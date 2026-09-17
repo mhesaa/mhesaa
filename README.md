@@ -32,21 +32,15 @@
 <tr>
 <td width="60%" valign="top">
 
-```yaml
-name: Mahesa Dika Pamungkas
-username: mhesaa
-role:
-  - Web Developer
-  - AI Engineer
-  - Tech Enthusiast
-level: Beginner
-location: Indonesia
-focus:
-  - Modern Web Development
-  - Artificial Intelligence
-  - Full-Stack Engineering
-mindset: Keep Learning, Keep Growing
-```
+**Profile Data**
+
+- **Name** : Mahesa Dika Pamungkas
+- **Username** : mhesaa
+- **Role** : Web Developer, AI Engineer, Tech Enthusiast
+- **Level** : Beginner
+- **Location** : Indonesia
+- **Focus** : Modern Web Development, Artificial Intelligence, Full-Stack Engineering
+- **Mindset** : Keep Learning, Keep Growing
 
 </td>
 <td width="40%" valign="top">
@@ -59,11 +53,11 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-🔭 Currently working on — Modern Web Applications
-🌱 Currently learning — Node.js, MongoDB & AI Integration
-💬 Ask me about — HTML, CSS, JavaScript, Python, PHP
-🎯 Goal — Full-Stack Developer & AI Engineer
-⚡ Fun fact — Code is my second language
+🔭 **Currently working on** — Modern Web Applications  
+🌱 **Currently learning** — Node.js, MongoDB & AI Integration  
+💬 **Ask me about** — HTML, CSS, JavaScript, Python, PHP  
+🎯 **Goal** — Full-Stack Developer & AI Engineer  
+⚡ **Fun fact** — Code is my second language  
 
 </div>
 
@@ -71,35 +65,33 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/> Tech Stack
 
 <br/>
 
-🎨 Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 <br/>
 
-⚙️ Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=python,php,nodejs&theme=dark" />
 
 <br/>
 
-🗄️ Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 <br/>
 
-🛠️ Tools & Others
+### 🛠️ Tools & Others
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
-
-
-
+<br/><br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -116,22 +108,18 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"/> GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"/> GitHub Statistics
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhesaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8A2BE2&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15"/>
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhesaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8&border_radius=15"/>
 
-
-
-
+<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=mhesaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00C2FF&fire=FF00E5&currStreakLabel=00C2FF&sideLabels=ffffff&dates=ffffff&border_radius=15"/>
 
-
-
-
+<br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhesaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=8A2BE2&point=FF00E5&area=true&area_color=8A2BE2"/>
 
@@ -141,7 +129,7 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <br/>
 
@@ -153,7 +141,7 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-📊 Contribution Snake
+## 📊 Contribution Snake
 
 <br/>
 
@@ -169,16 +157,17 @@ mindset: Keep Learning, Keep Growing
 
 <div align="center">
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 <br/>
 
-🎯 Focus Area 📈 Progress
-AI Engineering https://geps.dev/progress/35
-Node.js & Express https://geps.dev/progress/50
-MongoDB https://geps.dev/progress/45
-Python Advanced https://geps.dev/progress/60
-Clean Code & Best Practice https://geps.dev/progress/40
+| 🎯 Focus Area | 📈 Progress |
+|:---:|:---:|
+| **AI Engineering** | ![](https://geps.dev/progress/35) |
+| **Node.js & Express** | ![](https://geps.dev/progress/50) |
+| **MongoDB** | ![](https://geps.dev/progress/45) |
+| **Python Advanced** | ![](https://geps.dev/progress/60) |
+| **Clean Code & Best Practice** | ![](https://geps.dev/progress/40) |
 
 </div>
 
@@ -186,7 +175,7 @@ Clean Code & Best Practice https://geps.dev/progress/40
 
 <div align="center">
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <br/>
 
@@ -203,9 +192,7 @@ Clean Code & Best Practice https://geps.dev/progress/40
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-
-
-
+<br/><br/>
 
 <a href="https://github.com/mhesaa">
   <img src="https://img.shields.io/badge/Follow%20Me-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -217,60 +204,18 @@ Clean Code & Best Practice https://geps.dev/progress/40
 
 <div align="center">
 
-💭 Quote of the Day
+## 💭 Quote of the Day
 
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-
-
-
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!;Keep+learning%2C+keep+growing!" alt="Footer Typing"/>
 
-
-
-
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF00E5&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
 </div>
-```
-
----
-
-🐍 Aktifkan Snake Animation
-
-Buat file .github/workflows/snake.yml di repo mhesaa:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mhesaa
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
