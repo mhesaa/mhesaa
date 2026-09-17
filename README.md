@@ -1,22 +1,26 @@
 <div align="center">
 
-# Mhesa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:312E81,75:6D28D9,100:06B6D4&height=220&section=header&text=Mahesa%20Dika%20Pamungkas&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-### `Web Developer` · `Programmer` · `Tech Enthusiast`
+<br>
 
-<p>
-  <a href="https://github.com/mhesaa">
-    <img src="https://img.shields.io/badge/GitHub-mhesaa-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://instagram.com/dikafve">
-    <img src="https://img.shields.io/badge/Instagram-dikafve-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@saamhesa">
-    <img src="https://img.shields.io/badge/TikTok-saamhesa-000000?style=flat-square&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Web+Developer;AI+Engineer;Tech+Enthusiast;Always+Learning+%26+Building;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Mhesa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<br><br>
+
+<a href="https://github.com/mhesaa">
+<img src="https://img.shields.io/github/followers/mhesaa?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6D28D9&labelColor=0F172A"/>
+</a>
+
+<a href="https://github.com/mhesaa">
+<img src="https://img.shields.io/github/stars/mhesaa?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=06B6D4&labelColor=0F172A"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mhesaa&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<strong>Building • Learning • Experimenting • Improving</strong>
 
 </div>
 
@@ -24,25 +28,25 @@
 
 ## 👨‍💻 About Me
 
+Hi! I'm **Mahesa Dika Pamungkas**, a beginner developer from Indonesia 🇮🇩 with a strong interest in **Web Development, Artificial Intelligence, and modern technology**.
+
+I'm currently focused on developing a solid foundation in programming while building practical projects that help me understand how technology works in the real world.
+
 ```javascript
-const mhesa = {
-    role: "Web Developer",
-    languages: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "Python"
+const mahesa = {
+    name: "Mahesa Dika Pamungkas",
+    username: "mhesaa",
+    role: [
+        "Web Developer",
+        "AI Engineer",
+        "Tech Enthusiast"
     ],
-    databases: [
-        "MySQL",
-        "MongoDB"
-    ],
-    interests: [
+    level: "Beginner",
+    focus: [
         "Web Development",
+        "Artificial Intelligence",
         "Backend Development",
-        "Database",
-        "Software Development"
+        "Database Systems"
     ],
     mindset: "Learn → Build → Improve"
 };
