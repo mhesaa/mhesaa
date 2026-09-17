@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF00E5&height=220&section=header&text=Mahesa%20Dika%20Pamungkas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=60&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:8A2BE2,100:FF00E5&height=220&section=header&text=Mahesa%20Dika%20Pamungkas&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=62&descSize=20"/>
 
 <a href="https://github.com/mhesaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Web+Developer+%7C+AI+Engineer;%F0%9F%9A%80+Tech+Enthusiast+%7C+Beginner;%F0%9F%8C%B1+Always+Learning+New+Things;%E2%9A%A1+Let's+Build+Something+Amazing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2200&pause=500&color=00C2FF&center=true&vCenter=true&width=720&height=70&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Web+Developer+%7C+AI+Engineer;%F0%9F%9A%80+Tech+Enthusiast+%7C+Beginner;%F0%9F%8C%B1+Always+Learning+New+Things;%E2%9A%A1+Let's+Build+Something+Amazing" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&height=40&lines=Code+%7C+Create+%7C+Innovate+%7C+Repeat;Turning+coffee+into+code+since+day+one;Dream+big%2C+code+bigger" alt="Typing 2"/>
 
 <br/>
 
@@ -24,7 +28,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px"/> About Me
 
 </div>
 
@@ -45,7 +49,7 @@
 </td>
 <td width="40%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100%"/>
 
 </td>
 </tr>
@@ -53,11 +57,11 @@
 
 <div align="center">
 
-🔭 **Currently working on** — Modern Web Applications  
-🌱 **Currently learning** — Node.js, MongoDB & AI Integration  
-💬 **Ask me about** — HTML, CSS, JavaScript, Python, PHP  
-🎯 **Goal** — Full-Stack Developer & AI Engineer  
-⚡ **Fun fact** — Code is my second language  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22px"/> **Currently working on** — Modern Web Applications  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="22px"/> **Currently learning** — Node.js, MongoDB & AI Integration  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="22px"/> **Ask me about** — HTML, CSS, JavaScript, Python, PHP  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="22px"/> **Goal** — Full-Stack Developer & AI Engineer  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22px"/> **Fun fact** — Code is my second language  
 
 </div>
 
@@ -65,7 +69,7 @@
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="34px"/> Tech Stack
 
 <br/>
 
@@ -108,12 +112,12 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"/> GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34px"/> GitHub Statistics
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhesaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8A2BE2&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhesaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhesaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=8A2BE2&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=15&cache_seconds=86400"/>
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhesaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8&border_radius=15&cache_seconds=86400"/>
 
 <br/><br/>
 
@@ -129,11 +133,11 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="34px"/> GitHub Trophies
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mhesaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-trophies.vercel.app/?username=mhesaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -141,7 +145,7 @@
 
 <div align="center">
 
-## 📊 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="34px"/> Contribution Snake
 
 <br/>
 
@@ -157,7 +161,7 @@
 
 <div align="center">
 
-## 📚 Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="34px"/> Currently Learning
 
 <br/>
 
@@ -175,7 +179,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="34px"/> Connect With Me
 
 <br/>
 
@@ -204,7 +208,7 @@
 
 <div align="center">
 
-## 💭 Quote of the Day
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="34px"/> Quote of the Day
 
 <br/>
 
@@ -212,7 +216,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!;Keep+learning%2C+keep+growing!" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=8A2BE2&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing!;Keep+learning%2C+keep+growing!" alt="Footer Typing"/>
 
 <br/><br/>
 
